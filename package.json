@@ -1,0 +1,30 @@
+{
+  "name": "gift",
+  "version": "1.0.0",
+  "description": "better life bot ",
+  "main": "main.js",
+  "dependencies": {
+    "telegraf": "^3.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tryptich/gift.git"
+  },
+  "keywords": [
+    "Steve",
+    "Ruben",
+    "gift",
+    "telegram",
+    "bot"
+  ],
+  "author": "Steve Ruben <stevetuenka@\u001b[D\u001b[D\u001b[Cm\u001b[C\u001b[D@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tryptich/gift/issues"
+  },
+  "homepage": "https://github.com/Tryptich/gift#readme"
+}
